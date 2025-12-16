@@ -34,11 +34,13 @@
 
 \## Citation
 
-\[Your citation details here]
+\[The computational data and code in this repository support the findings of:
+> **Iqbal, S.**, *et al.* "Multi-Omics and 3D Genome Profiling Reveal an IL1B-Tyrosine Kinase-lncRNA Axis and Druggable Nodes Shared Across Psoriasis, Atopic Dermatitis, and Alzheimer’s Disease." (Manuscript under review, 2025)]
 
 
 
 \## License
 
 MIT License
+
 
